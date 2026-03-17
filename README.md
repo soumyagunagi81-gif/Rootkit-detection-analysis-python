@@ -5,7 +5,7 @@ Rootkit Analysis is the process of detecting, examining, and understanding rootk
 Rootkits allow attackers to control a system without being detected. They often hide files, processes, or network connections from the operating system and security software.
 Rootkit analysis helps cybersecurity professionals identify hidden malware, understand how it works, and remove it from the system.
 
-OBJECTIVES OF ROOTKIT ANALYSIS :-
+**OBJECTIVES OF ROOTKIT ANALYSIS**
 
 1.Detect hidden malware
 2.Analyze suspicious files
