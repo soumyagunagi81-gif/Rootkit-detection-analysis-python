@@ -13,14 +13,14 @@ Rootkit analysis helps cybersecurity professionals identify hidden malware, unde
 4.Protect the system from threats
 5.Improve cybersecurity defenses
 
-TYPES OF ROOTKITS :-
+**TYPES OF ROOTKITS**
 
 1.User mode Rootkit
 2.Kernel mode Rootkit
 3.Bootkit
 4.Firmware Rootkit
 
-FEATURES OF ROOTKITS :-
+**FEATURES OF ROOTKITS**
 
 1.Hide malicious files
 2.Hide running processes
@@ -28,7 +28,7 @@ FEATURES OF ROOTKITS :-
 4.Provide remote access to hackers
 5.Steal sensitive data
 
-IMPORTANCE IN CYBERSECURITY :-
+**IMPORTANCE IN CYBERSECURITY**
 
 Rootkit analysis is important because it helps :
 
@@ -38,14 +38,14 @@ Rootkit analysis is important because it helps :
 4.Improve system monitoring
 5.Strengthen cybersecurity defenses
 
-ADVANTAGES :-
+**ADVANTAGES**
 
 *Improve system security
 *Detects hidden threats
 *Helps cybersecurity investigation
 *protects user data
 
-CONCLUSION :-
+**CONCLUSION**
 
 Rootkit Analysis is an important part of cybersecurity and malware analysis.  It helps detect hidden malicious programs that attackers use to secretly control systems.  By anlyzing rootkits, security experts can identify threats, remove malware, and protect system from cyber attacks.
    *
