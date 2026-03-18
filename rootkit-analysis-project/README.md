@@ -30,7 +30,7 @@ README.md
 
 PROJECT_REPORT.md
 
-**How to run the Project**
+## How to run the Project
 1. Install Python
 2. Install Flask
 
@@ -44,7 +44,7 @@ PROJECT_REPORT.md
 
 https://127.0.0.1:5000
 
-**Output**
+## Output
 The system scan files names and displays a warning if a suspicious rootkit file is detected.
 
 ## Team Members
