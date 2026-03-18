@@ -7,25 +7,37 @@ This project is a simple cybersecurity tool developed using Python and Flask.  I
 **Technologies Used**
 
 -Python
+
 -Flask
+
 -HTML
+
 -CSS
 
 **Features**
 
 -Detects suspicious rootkit files
+
 -Simple Web interface
+
 -Displays alert messages
+
 -Easy to use
 
 **Project Structure**
 
 rootkit-analysis-project
+
 app.py
+
 rootkit_detector.py
+
 templates/index.html
+
 static/style.css
+
 README.md
+
 PROJECT_REPORT.md
 
 **How to run the Project**
@@ -33,11 +45,11 @@ PROJECT_REPORT.md
 1. Install Python
 2. Install Flask
 
-pip install Flask
+**pip install Flask**
 
 3. Run the program
 
-python app.py
+**python app.py**
 
 4. Open browser
 
