@@ -24,7 +24,7 @@ static/style.css
 README.md
 PROJECT_REPORT.md
 
-##How to run the Project
+How to run the Project
 1. Install Python
 2. Install Flask
 
