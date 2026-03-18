@@ -17,22 +17,28 @@ This project is a simple cybersecurity tool developed using Python and Flask.  I
 
 ## Project Structure
 rootkit-analysis-project
+
 app.py
+
 rootkit_detector.py
+
 templates/index.html
+
 static/style.css
+
 README.md
+
 PROJECT_REPORT.md
 
-How to run the Project
+**How to run the Project**
 1. Install Python
 2. Install Flask
 
-pip install Flask
+**pip install Flask**
 
 3. Run the program
 
-python app.py
+**python app.py**
 
 4. Open browser
 
