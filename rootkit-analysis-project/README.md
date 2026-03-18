@@ -1,21 +1,25 @@
 # Rootkit Detection and Analysis Tool using Python
 
-##**Project Overview**
+**Project Overview**
+
 This project is a simple cybersecurity tool developed using Python and Flask.  It detects suspicious file names that may indicate the presence of rootkits in a system.
 
-##**Technologies Used**
+**Technologies Used**
+
 -Python
 -Flask
 -HTML
 -CSS
 
-##**Features**
+**Features**
+
 -Detects suspicious rootkit files
 -Simple Web interface
 -Displays alert messages
 -Easy to use
 
-##**Project Structure**
+**Project Structure**
+
 rootkit-analysis-project
 app.py
 rootkit_detector.py
@@ -24,7 +28,8 @@ static/style.css
 README.md
 PROJECT_REPORT.md
 
-##**How to run the Project**
+**How to run the Project**
+
 1. Install Python
 2. Install Flask
 
@@ -38,7 +43,8 @@ python app.py
 
 https://127.0.0.1:5000
 
-##**Output**
+**Output**
+
 The system scan files names and displays a warning if a suspicious rootkit file is detected.
 
 ## **Team Members**
